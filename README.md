@@ -1,4 +1,4 @@
-# Análise de Fraude em Cartão de Crédito — SQL
+# Análise de Fraude em Cartão de Crédito - SQL
 
 ## Sobre o projeto
 
