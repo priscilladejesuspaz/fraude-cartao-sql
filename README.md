@@ -1,4 +1,4 @@
-# Análise de Fraude em Cartão de Crédito - SQL
+# Análise de Fraude em Cartão de Crédito — SQL
 
 ## Sobre o projeto
 
@@ -61,4 +61,4 @@ Utiliza SQL (MySQL) para criar tabelas, importar dados, escrever queries analít
 
 ## Fonte dos dados
 
-Dataset sintético de varejo (Realistic Multi-Causal Retail Dataset) e Superstore Sales - públicos, para fins de estudo.
+Dataset sintético de varejo (Realistic Multi-Causal Retail Dataset) e Superstore Sales — públicos, para fins de estudo.
